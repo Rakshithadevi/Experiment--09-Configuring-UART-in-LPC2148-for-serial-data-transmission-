@@ -82,9 +82,12 @@ delay(200);
 ```
 ## OUTPUT:
 ## BEFORE STIMULATION:
+![](./ex%209%20bfs.png)
 
 ## AFTER STIMULATION:
+![](./ex%209%20afs.png)
 ## CIRCUIT DIAGRAM:
+![](./ex%209%20pdf.png)
 
 
 
@@ -105,7 +108,8 @@ delay(200);
 
 
 
-### Result :
+
+## Result :
 UART is programmed for transmitting serial data on virtual terminal  
 
 
